@@ -1,5 +1,5 @@
 # CTML
-take home test
+Coding challenge
 
 ## Challenge 1 Breast Cancer Dataset EDA: 
  - please see 'wdbc_classifier.ipynb'
